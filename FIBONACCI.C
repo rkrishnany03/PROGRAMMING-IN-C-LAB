@@ -4,7 +4,7 @@ void main()
 {
 	int a=0,b=1,c,n,i;
 	clrscr();
-	printf("enter the limit of the series ");
+	printf("enter the limit ");
 	scanf("%d",&n);
 	for(i=1;i<=n;i++)
 	{
